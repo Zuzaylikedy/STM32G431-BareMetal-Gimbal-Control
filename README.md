@@ -37,8 +37,6 @@ Why is this board implemented using a **Multi-Layer Stackup** instead of a stand
 
 BLDC motor drivers switch high currents at high frequencies ($10-20\text{ kHz}$ PWM), generating intense Electromagnetic Interference (EMI). Without a multi-layer design strategy, this switching noise severely degrades IMU sensor readouts and induces voltage drops (IR drops) that reset the MCU.
 
-![PCB 3D Top View](PCBFiles&Renderings/Exports/PCB_front.png)
-![PCB 3D Bottom View](PCBFiles&Renderings/Exports/PCB_Bottomm.png)
 
 Engineering Justifications for Multi-Layer Routing:
 

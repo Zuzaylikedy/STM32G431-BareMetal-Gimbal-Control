@@ -1,5 +1,3 @@
-
-
 A comprehensive, system-level embedded engineering project featuring a **custom multi-layer PCB designed in Altium Designer**, direct **register-level (CMSIS/Bare-metal) STM32 C firmware**, and **MATLAB/Simulink** dynamic system modeling for a 3-axis brushless drone gimbal stabilization system.
 
 ---
@@ -16,7 +14,7 @@ Microcontroller & Clock Subsystem
 * **Clock Generation:** 8 MHz High-Speed External (HSE) crystal oscillator circuit with tuned load capacitors ($C_L = 20\text{ pF}$) for ultra-stable PLL clock generation.
 * **Debug Interface:** SWD (Serial Wire Debug) header exposing `SWDIO` and `SWCLK` pins for low-level debugging and flashing.
 
-![MCU Schematic](Hardware/Schematics/mcu_schematic.png)
+![MCU Schematic](PCBFiles&Renderings/Schematics/MCU.png)
 
 Power Management & Voltage Regulation
 * **Primary Supply:** Accepts a 2S–3S LiPo battery input ($7.4\text{V} - 11.1\text{V}$).

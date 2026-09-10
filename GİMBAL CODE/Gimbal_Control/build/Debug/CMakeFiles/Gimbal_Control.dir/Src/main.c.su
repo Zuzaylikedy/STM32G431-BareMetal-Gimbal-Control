@@ -1,0 +1,4 @@
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/main.c:46:7:Complementary_Filter	32	static
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/main.c:52:7:PID_Compute	48	static
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/main.c:72:6:Set_Motor_PWM	16	static
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/main.c:81:5:main	32	static

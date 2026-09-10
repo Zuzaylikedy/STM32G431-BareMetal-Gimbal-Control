@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug",
+  "command": "C:\\Users\\aslan\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G4XX -I\"C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Gimbal_Control.dir\\Src\\syscall.c.obj -c \"C:\\Users\\aslan\\OneDrive\\Masaüstü\\GİMBAL CODE\\Gimbal_Control\\Src\\syscall.c\"",
+  "file": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/syscall.c",
+  "output": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/Gimbal_Control.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug",
+  "command": "C:\\Users\\aslan\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G4XX -I\"C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Gimbal_Control.dir\\Src\\sysmem.c.obj -c \"C:\\Users\\aslan\\OneDrive\\Masaüstü\\GİMBAL CODE\\Gimbal_Control\\Src\\sysmem.c\"",
+  "file": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/sysmem.c",
+  "output": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/Gimbal_Control.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug",
+  "command": "C:\\Users\\aslan\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G4XX -I\"C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Gimbal_Control.dir\\Src\\main.c.obj -c \"C:\\Users\\aslan\\OneDrive\\Masaüstü\\GİMBAL CODE\\Gimbal_Control\\Src\\main.c\"",
+  "file": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/main.c",
+  "output": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/Gimbal_Control.dir/Src/main.c.obj"
+},
+{
+  "directory": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug",
+  "command": "C:\\Users\\aslan\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G4XX -I\"C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Inc\" -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles\\Gimbal_Control.dir\\Src\\startup_stm32g431xx.S.obj -c \"C:\\Users\\aslan\\OneDrive\\Masaüstü\\GİMBAL CODE\\Gimbal_Control\\Src\\startup_stm32g431xx.S\"",
+  "file": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/Src/startup_stm32g431xx.S",
+  "output": "C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/Gimbal_Control.dir/Src/startup_stm32g431xx.S.obj"
+}
+]

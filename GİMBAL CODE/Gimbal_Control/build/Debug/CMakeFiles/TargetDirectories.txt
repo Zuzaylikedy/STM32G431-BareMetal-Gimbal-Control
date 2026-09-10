@@ -1,0 +1,3 @@
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/Gimbal_Control.dir
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/OneDrive/Masaüstü/GİMBAL CODE/Gimbal_Control/build/Debug/CMakeFiles/rebuild_cache.dir

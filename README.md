@@ -21,13 +21,13 @@ Power Management & Voltage Regulation
 * **Logic Power Rail:** Low-dropout regulator (LDO) stepping down main power supply to a clean 3.3V system logic level.
 * **Noise Suppression:** Bulk electrolytic input capacitors combined with LC low-pass output filters to prevent switching ripples from propagating into the digital plane.
 
-![Power Schematic](Hardware/Schematics/power_schematic.png)
+![Power Schematic](PCBFiles&Renderings/Schematics/Power.png)
 
 Motor Driver & IMU Sensor Interface
 * **Triple Half-Bridge Driver:** **TI DRV8313** 3-Phase PWM motor driver configured with dedicated current limiters and undervoltage lockout (UVLO) protections.
 * **Inertial Measurement Unit (IMU):** **MPU-6050** 6-DOF Gyroscope and Accelerometer connected via a dedicated high-speed I2C bus ($400\text{ kHz}$) with external $4.7\text{ k}\Omega$ pull-up resistors on `SCL` and `SDA` lines.
 
-![Driver and IMU Schematic](Hardware/Schematics/driver_sensor_schematic.png)
+![IMU Schematic](PCBFiles&Renderings/Schematics/IMU.png)
 
 ---
 
@@ -37,8 +37,8 @@ Why is this board implemented using a **Multi-Layer Stackup** instead of a stand
 
 BLDC motor drivers switch high currents at high frequencies ($10-20\text{ kHz}$ PWM), generating intense Electromagnetic Interference (EMI). Without a multi-layer design strategy, this switching noise severely degrades IMU sensor readouts and induces voltage drops (IR drops) that reset the MCU.
 
-![PCB 3D Top View](Hardware/PCB_3D/pcb_top.png)
-![PCB 3D Bottom View](Hardware/PCB_3D/pcb_bottom.png)
+![PCB 3D Top View](PCBFiles&Renderings/Exports/PCB_front.png)
+![PCB 3D Bottom View](PCBFiles&Renderings/Exports/PCB_Bottomm.png)
 
 Engineering Justifications for Multi-Layer Routing:
 
